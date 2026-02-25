@@ -19,16 +19,16 @@ This project presents an Amazon Sales Analysis Dashboard built in Excel to track
 - KPI Reporting
 - Business Insights Generation
 # Questions
-Which month generated the highest revenue?
-Which SKUs should be prioritized for inventory and marketing?
-What number of orders are shipped, cancelled or unshipped?
-Which clothing sizes are in demand?
-Are some sizes rarely sold (overstock risk)?
-Which cities generate the most orders?
-Where should marketing campaigns be focused?
-Which fulfilment method performs better?
-Which states contribute highest revenue?
-Where should expansion or advertising be targeted?
+- Which month generated the highest revenue?
+- Which SKUs should be prioritized for inventory and marketing?
+- What number of orders are shipped, cancelled or unshipped?
+- Which clothing sizes are in demand?
+- Are some sizes rarely sold (overstock risk)?
+- Which cities generate the most orders?
+- Where should marketing campaigns be focused?
+- Which fulfilment method performs better?
+- Which states contribute highest revenue?
+- Where should expansion or advertising be targeted?
 # Dashboard Screenshot
 - <a href="https://github.com/snehalprasad07/excel-amazon-sales-dashboard/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
 # Key Insights
