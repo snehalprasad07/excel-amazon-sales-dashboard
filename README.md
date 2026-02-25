@@ -10,3 +10,14 @@ This project presents an Amazon Sales Analysis Dashboard built in Excel to track
 # Dataset used
 - <a href="https://github.com/snehalprasad07/excel-amazon-sales-dashboard/blob/main/Amazon%20Sales%20Dataset%20Cleaned.xlsx">Dataset</a>
 # Tools & Skills Used
+- Microsoft Excel
+- Pivot Tables
+- Data cleaning
+- Data Visualization
+- Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Business Insights Generation
+# Dashboard Screenshot
+- <a href="https://github.com/snehalprasad07/excel-amazon-sales-dashboard/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
+
